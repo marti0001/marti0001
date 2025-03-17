@@ -57,7 +57,18 @@ Here’s a stack I frequently work with:
 </a>
 
 ---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=MNIST-Digit-Classification&theme=dark)](https://github.com/marti0001/MNIST-Digit-Classification)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=Image_classifier_ResNet50&theme=dark)](https://github.com/marti0001/Image_classifier_ResNet50)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=Spaceship_Titanic&theme=dark)](https://github.com/marti0001/Spaceship_Titanic)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=Movie_Recommendation_System_TF-IDF&theme=dark)](https://github.com/marti0001/Movie_Recommendation_System_TF-IDF)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=House-Prices&theme=dark)](https://github.com/marti0001/House-Prices)
+
+
+---
 
 ⭐ **Star this repo** if you find it helpful!  
 
