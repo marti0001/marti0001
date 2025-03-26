@@ -36,18 +36,23 @@ Here’s a stack I frequently work with:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-✓-green?FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-✓-green?D00000?logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit-✓-green?F7931E?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-✓-green?F7931E?logo=PyTorch&logoColor=white)
 
 **Data Tools**  
 ![Pandas](https://img.shields.io/badge/Pandas-✓-green?150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-✓-green?013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-✓-green?11557C?logo=matplotlib&logoColor=white)
 [![FastAPI](https://img.shields.io/badge/FastAPI-✓-green?logo=fastapi)](https://fastapi.tiangolo.com/)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-✓-green?11557C?logo=matplotlib&logoColor=white)
 
-**Other Tools**  
+**Cloud & DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-✓-green?F05032?logo=docker&logoColor=white)
+
+**Tools and technologies**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-✓-green?F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-✓-green?F05032?logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/Docker-✓-green?F05032?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/VSCode-✓-green?F05032?logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-✓-green?F05032?logo=docker&logoColor=white)
+
 ---
 
 ### GitHub Stats
