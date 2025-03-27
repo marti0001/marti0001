@@ -62,6 +62,8 @@ Here’s a stack I frequently work with:
 </a>
 
 ---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=Language_Detection&theme=dark)](https://github.com/marti0001/Language_Detection)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=MNIST-Digit-Classification&theme=dark)](https://github.com/marti0001/MNIST-Digit-Classification)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marti0001&repo=Image_classifier_ResNet50&theme=dark)](https://github.com/marti0001/Image_classifier_ResNet50)
